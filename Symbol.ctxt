@@ -1,0 +1,16 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=Symbol
+comment0.text=\r\n Representa un s\u00EDmbolo visual dentro de las ruedas.\r\n
+comment1.params=color xPos yPos
+comment1.target=Symbol(java.lang.String, int, int)
+comment2.target=java.lang.String getType()
+comment2.text=\r\n Retorna al simbolo tipo normal\r\n
+comment3.target=void onSpin()
+comment3.text=\r\n Se invoca este metodo a la clase Wheel al girar para detonar comportamientos especiales en subclases (Ephemeral, Shy, Chamaleon)\r\n
+comment4.target=java.lang.String getColor()
+comment5.params=newX newY
+comment5.target=void setPosition(int, int)
+comment6.target=void makeVisible()
+comment7.target=void makeInvisible()
+numComments=8

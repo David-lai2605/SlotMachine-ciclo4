@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=ChameleonSymbol
+comment0.text=\r\n S\u00EDmbolo Chameleon (Propuesto)\: Cambia a un color aleatorio cada vez que la rueda gira.\r\n \r\n @author David Laiton\r\n @version 4.0\r\n
+comment1.params=color xPos yPos
+comment1.target=ChameleonSymbol(java.lang.String, int, int)
+comment2.target=java.lang.String getType()
+comment3.target=void onSpin()
+numComments=4

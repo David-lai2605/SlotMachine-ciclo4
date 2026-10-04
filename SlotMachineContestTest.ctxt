@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=SlotMachineContestTest
+comment0.text=\r\n Casos de prueba para la clase SlotMachineContestTest.\r\n\r\n @author  Julian David Laiton Laiton\r\n @version 1.0\r\n
+comment1.target=void setUp()
+comment1.text=\r\n Configuracion previa a cada metodo de prueba\r\n
+comment2.target=void tearDown()
+comment2.text=\r\n Limpieza posterior a cada metodo de prueba\r\n
+comment3.target=void testSolve3Ruedas()
+comment3.text=\r\n Prueba el funcionamiento del m\u00E9todo solve para una m\u00E1quina con 3 ruedas.\r\n Verifica que el total de giros calculados sea mayor o igual a cero.\r\n
+comment4.target=void testSolveNoExcedeLimite()
+comment4.text=\r\n Verifica que la soluci\u00F3n encontrada con solve no exceda el l\u00EDmite m\u00E1ximo razonable de giros permitidos seg\u00FAn las reglas de la marat\u00F3n.\r\n
+comment5.target=void testSimulateSinErrores()
+comment5.text=\r\n Verifica que el m\u00E9todo simulate ejecute y reconstruya adecuadamente la simulaci\u00F3n gr\u00E1fica para 3 ruedas.\r\n
+numComments=6

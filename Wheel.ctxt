@@ -1,0 +1,36 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=Wheel
+comment0.text=\r\n Representa una rueda individual en el simulador SlotMachine.\r\n Modificada para soporte de Refactoring y Extensi\u00F3n (Ciclo 4)\r\n \r\n @author David Laiton\r\n @version 4.0\r\n
+comment1.params=x y
+comment1.target=Wheel(int, int)
+comment10.params=otherWheel
+comment10.target=void copyStateFrom(Wheel)
+comment10.text=\r\n Requisito Lefty\: Copia la lista de s\u00EDmbolos y el \u00EDndice activo de otra rueda\r\n
+comment11.params=color
+comment11.target=void setTopSymbol(java.lang.String)
+comment12.target=java.lang.String getVisibleSymbol()
+comment13.target=java.lang.String[] getSymbolsArray()
+comment14.target=java.util.ArrayList getAllSymbols()
+comment15.params=x y
+comment15.target=void setPosition(int, int)
+comment16.target=void makeVisible()
+comment17.target=void makeInvisible()
+comment18.target=void updateVisibleSymbol()
+comment2.target=java.lang.String getType()
+comment2.text=\r\n Retorna el tipo de rueda ("normal" por defecto)\r\n
+comment3.params=locked
+comment3.target=void setLocked(boolean)
+comment4.target=boolean isLocked()
+comment5.params=color
+comment5.target=void addSymbol(java.lang.String)
+comment5.text=\r\n Agrega un s\u00EDmbolo de tipo normal por defecto.\r\n
+comment6.params=type color
+comment6.target=void addSymbol(java.lang.String, java.lang.String)
+comment6.text=\r\n Requisito Ciclo 4\: Sobrecarga para instanciar s\u00EDmbolos seg\u00FAn su tipo\r\n
+comment7.params=color
+comment7.target=boolean removeSymbol(java.lang.String)
+comment8.params=color
+comment8.target=boolean containsSymbol(java.lang.String)
+comment9.target=void spin()
+numComments=19

@@ -1,0 +1,13 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=SlotMachineC4Test
+comment0.text=\r\n Pruebas de unidad internas para las nuevas funcionalidades y excepciones del Ciclo 4.\r\n \r\n @author Juli\u00E1n David Laiton Laiton\r\n @version 4.0\r\n
+comment1.target=void setUp()
+comment2.target=void tearDown()
+comment3.target=void shouldThrowExceptionOnInvalidPosition()
+comment4.target=void shouldNotAllowLockSwapOrDeleteOnRebelWheel()
+comment5.target=void shouldCopyLeftWheelStateOnLeftyWheelSpin()
+comment6.target=void shouldCreateGoldenWheelCorrectly()
+comment7.target=void shouldAddSpecialSymbolsToWheel()
+comment8.target=void shouldVerifyJackpotWithSpecialWheels()
+numComments=9

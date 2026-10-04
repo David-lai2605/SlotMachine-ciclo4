@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=SlotMachineCC4Test
+comment0.text=\r\n Casos de prueba de unidad compartidos para el Ciclo 4.\r\n Contiene un escenario de \u00E9xito (Happy Path) y un escenario de fallo/excepci\u00F3n.\r\n \r\n @author Juli\u00E1n David Laiton Laiton\r\n @version 4.0\r\n
+comment1.target=void setUp()
+comment2.target=void tearDown()
+comment3.target=void accordingToMiLlShouldWorkWithSpecialWheelsAndSymbols()
+comment3.text=\r\n Verifica la adici\u00F3n de diferentes tipos de ruedas (normal, rebel, lefty, golden),\r\n la inserci\u00F3n de s\u00EDmbolos especiales y la r\u00E9plica de estado al girar una rueda Lefty.\r\n
+comment4.target=void accordingToMiLlShouldFailWhenPerformingForbiddenActionOnRebelWheel()
+comment4.text=\r\n CASO DE PRUEBA COMPARTIDO 2 (Fallo / Exception Handling Path)\:\r\n Verifica que al intentar realizar una acci\u00F3n prohibida sobre una RebelWheel (por ejemplo, lock)\r\n la m\u00E1quina lance la excepci\u00F3n SlotMachineException y marque ok() como false[cite\: 5].\r\n
+numComments=5

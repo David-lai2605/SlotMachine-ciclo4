@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=SlotMachineContest
+comment0.text=\r\n Solucionador y simulador para la marat\u00F3n de Slot Machine.\r\n Actualizado para el Ciclo 4 con soporte de excepciones\r\n \r\n @author Juli\u00E1n David Laiton Laiton\r\n @version 4.0\r\n
+comment1.target=SlotMachineContest()
+comment2.params=n
+comment2.target=int solve(int)
+comment2.text=\r\n Calcula la cantidad m\u00EDnima de movimientos para lograr el Jackpot de forma invisible\r\n @param n N\u00FAmero de ruedas de la m\u00E1quina\r\n @return Cantidad total de giros/movimientos realizados\r\n
+comment3.params=n
+comment3.target=void simulate(int)
+comment3.text=\r\n Reproduce gr\u00E1ficamente en el Canvas la secuencia de soluci\u00F3n encontrada\r\n @param n N\u00FAmero de ruedas a simular\r\n
+numComments=4

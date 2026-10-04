@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sat Oct 03 19:14:03 COT 2026
+comment0.target=RebelWheel
+comment0.text=\r\n Rueda tipo Rebel\: Bloquea las acciones de lock, swap y delWheel.\r\n \r\n @author Juli\u00E1n David Laiton Laiton\r\n @version 4.0\r\n
+comment1.params=xPos yPos
+comment1.target=RebelWheel(int, int)
+comment1.text=\r\n Constructor para la rueda Rebel.\r\n @param xPos Posici\u00F3n X en el Canvas\r\n @param yPos Posici\u00F3n Y en el Canvas\r\n
+comment2.target=java.lang.String getType()
+numComments=3
